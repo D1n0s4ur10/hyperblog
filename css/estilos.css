@@ -1,17 +1,17 @@
 body
 {
-    color: # 333;
+    color: #333333;
     text-align: left;
-    font-family: "Ariel";
-    font-sise: 16px;
+    font-family: "Arial";
+    font-size: 16px;
     margin: 0;
-    padding: 0;
+    padding: 0.8;
 }
 
 #cabecera
 {
     background: #33A;
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 2px 20px 0px rgba(139, 44, 44, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
