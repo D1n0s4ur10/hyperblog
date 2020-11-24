@@ -9,5 +9,6 @@ Un blog incleible para el curso de Git y Github dePlatzi. El curso de Ghub y Git
 - trucos muy locos del profesor
 - Las personalidades muy locas de Freddy
 - Creado por el incleible Platzi Team
+- Incluye ejemplos en Windows, Linux y mac
 
 Y como un amable recordatorio Este reade.md es un chiste. Diseñado para el ejemplo.  Si llegas áca **NO TE LO TOMES EN SERIO** y mejor ve [a ver el curso].(https://platzi.com/cursos/git-github/"A ver el curso"
